@@ -1,0 +1,60 @@
+body{
+	background-color: lightblue
+}
+h2
+{
+	border:1px solid black
+}
+
+
+#paraId
+{
+	background: #fffca5
+}
+h3{
+	color: purple
+}
+
+#single
+{
+	text-decoration: overline
+}
+
+#textarea
+{
+	border: 6px solid grey
+}
+
+#txtemail
+{
+	border: 2px solid maroon
+}
+
+#txtpwd
+{
+	border: 2px solid maroon
+}
+
+#txtbtn
+{
+	border: 2px solid maroon
+}
+
+#mytext2
+{
+	border: 2px solid maroon
+}
+
+#questCom
+{
+	background: #fffca5
+}
+#divCom
+{
+	border: 4px dashed red;
+	background-color: blue;
+}
+
+a{
+	color: red
+}

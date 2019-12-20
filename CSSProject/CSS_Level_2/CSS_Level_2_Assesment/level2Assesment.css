@@ -1,0 +1,42 @@
+
+h1
+{
+	text-align: center;
+	font-family: 'Pacifico', cursive;
+}
+
+.art
+{
+	margin: auto;
+}
+td{
+	background-color: black;
+	height: 200px;
+	width: 100px;
+	border:2px solid white
+}
+
+#row1
+{
+	background-color: #baf8ff;
+}
+
+#row2
+{
+	background-color: #ff8e8e;
+}
+
+#row3
+{
+	background-color: #e1ff82;
+}
+
+#row4
+{
+	background-color: #9de88b;
+}
+
+#row5
+{
+	background-color: #627264;
+}

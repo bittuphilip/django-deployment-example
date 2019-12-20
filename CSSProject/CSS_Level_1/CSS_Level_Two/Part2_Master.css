@@ -1,0 +1,19 @@
+@charset "ISO-8859-1";
+
+/*akjsdhajhd*/
+body{
+	background:url(https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg);
+}
+
+
+div{
+	background: orange;
+	border-color: blue;
+	border-width: 5px;
+	border-style: solid;
+}
+
+span{
+	background: yellow;
+	color: green;
+}
